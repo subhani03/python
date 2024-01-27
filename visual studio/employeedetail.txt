@@ -1,0 +1,3 @@
+101	deeban	python developer	40000	deeban	deeban
+102	subashini	fullstack developer	60000	subi	subi
+103	karthi	java developer	50000	karthi	karthi

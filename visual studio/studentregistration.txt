@@ -1,0 +1,5 @@
+1	401	deeban	85	82	95	99	99	460	92.0	deeban	deeban
+2	402	subashini	95	85	89	98	99	466	93.2	subi	subi
+3	403	deepi	98	85	99	99	100	481	96.2	deepi	deepi
+4	404	subhani	85	84	98	99	100	466	93.2	subha	subha
+120	1234	fyu	85	94	85	99	100	463	92.6
